@@ -32,7 +32,7 @@ TEMPLATE_LOADERS = (
 )
 ```
 
-![Navigation bar](https://github.com/xangmuve/grappelli-dynamic-navbar/raw/master/screenshot.png)
+![Navigation bar](https://github.com/xangmuve/grappelli_dynamic_navbar/blob/master/screenshot.png)
 
 
 ## To run tests
