@@ -7,6 +7,10 @@
 
 Available features:
 * [Header navbar](#navbar)
+  
+Add a dynamic navbar that change according to user permissions
+
+# Requirements
 
 * Python > 2.6
 * django-grappelli >= 2.4.5
