@@ -1,0 +1,2 @@
+recursive-include grappelli_dynamic_navbar/templates *.html
+recursive-exclude * .DS_Store

@@ -1,0 +1,2 @@
+django-grappelli>=2.4.6
+django-classy-tags>=0.4
