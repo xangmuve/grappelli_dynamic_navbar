@@ -24,7 +24,7 @@ package = 'grappelli_dynamic_navbar'
 description = 'Extensions for Grappelli Admin interface'
 url = \
     'https://github.com/xangmuve/grappelli_dynamic_navbar'
-author = 'Paulo R. Macedo, Igor P. Leroy'
+author = 'Cesar Abel Ramirez'
 author_email = 'cesarabel@johnmay.com.ni'
 license = 'BSD'
 install_requires = [
