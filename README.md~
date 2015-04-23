@@ -36,6 +36,8 @@ TEMPLATE_LOADERS = (
 )
 ```
 
+ * Be sure 'django.core.context_processors.request' on your TEMPLATE_CONTEXT_PROCESSORS setting:
+
 ![Navigation bar](https://github.com/xangmuve/grappelli_dynamic_navbar/blob/master/screenshot.png)
 
 

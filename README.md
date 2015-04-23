@@ -10,6 +10,8 @@ Available features:
   
 Add a dynamic navbar that change according to user permissions
 
+Add Traslation and addlink.
+
 # Requirements
 
 * Python > 2.6
